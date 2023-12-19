@@ -16,8 +16,8 @@ Unity, C#, Adobe Photoshop
 
 <table>
   <tr>
-    <td><img src="Images/Img_1.jpg" alt="Image 1"></td>
-    <td><img src="Images/Img_2.jpg" alt="Image 2"></td>
+    <td><img src="Images/Img_1.png" alt="Image 1"></td>
+    <td><img src="Images/Img_2.png" alt="Image 2"></td>
   </tr>
 </table>
 
